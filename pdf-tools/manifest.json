@@ -1,0 +1,16 @@
+{
+  "name": "pdf-tools",
+  "version": "1.0.0",
+  "description": "PDF 工具箱 - 合并、拆分、压缩、转换 PDF",
+  "author": "chunweecai-cmd",
+  "license": "MIT",
+  "entry": "main.py",
+  "language": "python",
+  "category": "productivity",
+  "tags": ["pdf", "document", "converter", "merge", "split"],
+  "requirements": [
+    "PyPDF2>=3.0.0",
+    "Pillow>=9.0.0",
+    "pdf2image>=1.16.0"
+  ]
+}
